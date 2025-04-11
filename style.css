@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  background-color: brown;
+  margin-right: 423px;
+  margin-left: 381px;
+  text-align: center;
+  font-size: 64px;
+  margin-top: 22px;
+}
+.a2 {
+  background-color: aqua;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+.a1 {
+  background-color: black;
+  border: 6px solid #ff0606;
+  border-radius: 10px;
+  width: 1000px;
+  margin-left: 220px;
+  margin-top: 55px;
+  padding-bottom: 22px;
+}
+.p1 {
+  padding-right: 15px;
+}
+.p2 {
+  padding-right: 25px;
+}
